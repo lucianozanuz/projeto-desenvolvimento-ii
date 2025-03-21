@@ -94,7 +94,7 @@ A seguir são apresentados exemplos de artefatos que podem ser apresentados:
 Exemplos de repositórios:
 
 
-[https://github.com/gbmachado/projetoFinal]([https://markdownlivepreview.com/](https://github.com/gbmachado/projetoFinal)
+[https://github.com/gbmachado/projetoFinal](https://github.com/gbmachado/projetoFinal)
 
 [https://github.com/fga-eps-mds/2018.1-IncluCare](https://github.com/fga-eps-mds/2018.1-IncluCare)
 
